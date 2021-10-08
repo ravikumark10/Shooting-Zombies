@@ -1,2 +1,2 @@
 # Shooting-Zombies
-Game
+Game-Developed by using python with pygame library
